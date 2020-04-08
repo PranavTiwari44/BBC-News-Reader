@@ -18,6 +18,10 @@
         <activity android:name=".SaveddbArticles" />
         <activity android:name=".NewsMessage" />
         <activity android:name=".Headlines" />
+        <activity android:name=".SavedImages"></activity>
+        <activity android:name=".ImageSearch" />
+        <activity
+            android:name=".DatePicker"/>
         <activity android:name=".MainActivity">
 
             <intent-filter>

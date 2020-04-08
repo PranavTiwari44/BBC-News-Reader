@@ -27,4 +27,20 @@
     <string name="Toast1">Voici votre liste enregistrée</string>
     <string name="snackbar1">Vous pouvez voir que vous avez déjà enregistré des articles préférés!</string>
     <string name="help">aide</string>
+    <string name="hello_blank_fragment">Bonjour fragment vierge</string>
+    <string name="select_date">Sélectionner une date</string>
+    <string name="date_hint">AAAA-MM-JJ</string>
+    <string name="go">ALLER</string>
+    <string name="or">OU</string>
+    <string name="gotoS">
+Accéder aux images enregistrées</string>
+    <string name="save">Enregistrer limage</string>
+    <string name="main">
+Image du jour de la NASA</string>
+    <string name="saved">
+Images enregistrées</string>
+    <string name="url">URL</string>
+    <string name="hd">
+haute définition</string>
+    <string name="hide">Cacher</string>
     </resources>

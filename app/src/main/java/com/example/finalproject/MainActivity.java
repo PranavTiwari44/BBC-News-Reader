@@ -14,6 +14,11 @@ public class MainActivity extends AppCompatActivity {
             Intent nextActivity = new Intent(this, Articles.class);
             startActivityForResult(nextActivity, 100);
         });
+        Button b = findViewById(R.id.button);
+        b.setOnClickListener(v -> {
+            Intent i = new Intent(this,DatePicker.class);
+            startActivity(i);
+        });
     }
 }
 
