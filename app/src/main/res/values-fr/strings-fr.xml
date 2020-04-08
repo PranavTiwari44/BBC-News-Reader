@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Projet final</string>
+    <string name="bbc">Lecteur BBC News</string>
+    <string name="open">ouvert</string>
+    <string name="close">Fermer</string>
+    <string name="lnws">Dernières nouvelles</string>
+    <string name="svlstbtn">Liste enregistrée</string>
+    <string name="helpbtn">Menu Aide</string>
+    <string name="hntrsn">Qu est-ce que vous avez aimé dans cet article?</string>
+    <string name="svdbbtn">sauvegarder</string>
+    <string name="dbartclettle">Articles préférés</string>
+    <string name="rsn">Ce que vous avez aimé dans votre dernier article enregistré est </string>
+    <string name="hdrttle">Menu Aide</string>
+    <string name="fragment">Disposition des fragments</string>
+    <string name="fhead">Gros titre</string>
+    <string name="fid">Id</string>
+    <string name="hidef">cacher</string>
+    <string name="slctdarticle">Article de presse sélectionné</string>
+    <string name="instr1">1. Si vous cliquez sur BBC News Reader, vous serez dirigé vers une activité montrant des nouvelles récentes</string>
+    <string name="instr2">2. Après cela, si vous cliquez sur l une des nouvelles, elle vous redirige à nouveau vers une autre activité où vous pouvez l ajouter à votre liste enregistrée</string>
+    <string name="instr3">3. Ou si vous appuyez sur le bouton de la liste enregistrée, vous atteindrez votre liste enregistrée</string>
+    <string name="instr4">4. Si vous souhaitez supprimer l un des articles enregistrés, appuyez longuement sur cet article et appuyez sur oui pour le supprimer.</string>
+    <string name="about1">1. Le nom de l application est: - BBC News reader</string>
+    <string name="about2">2. L application est créée par: - Pranav Tiwari</string>
+    <string name="about3">3. Le numéro de version est: - 2</string>
+    <string name="Toast1">Voici votre liste enregistrée</string>
+    <string name="snackbar1">Vous pouvez voir que vous avez déjà enregistré des articles préférés!</string>
+    <string name="help">aide</string>
+    </resources>
