@@ -35,6 +35,11 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             Intent nextActivity = new Intent(this, Articles.class);
             startActivityForResult(nextActivity, 100);
         });
+        Button b = findViewById(R.id.button);
+        b.setOnClickListener(v -> {
+            Intent i = new Intent(this,DatePicker.class);
+            startActivity(i);
+        });
     }
 
     @Override
@@ -42,8 +47,10 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         String message = null;
         switch(item.getItemId())
         {
-            case R.id.button:
+            case R.id.NasaImage:
                 message="you clicked on Nasa image of the day";
+                Intent nasaimage = new Intent(this, DatePicker.class);
+                startActivity(nasaimage);
                 break;
             case R.id.BBC:
                 message="you clicked on BBC News reader";
